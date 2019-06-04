@@ -1,0 +1,8 @@
+node_modules
+npm-debug.log
+/migrations.json
+/lib
+package-lock.json
+*.swp
+*.iml
+.idea/
